@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Q'onsciente!</title> 
+		<meta charset="utf-8" />
+		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+		<meta name="apple-mobile-web-app-capable" content="yes">
+
+		<link rel="stylesheet" type='text/css' href="css/jquery.mobile.css"/>
+		<link rel="stylesheet" type="text/css" href="css/app.css"/>
+		<script type='text/javascript' src="js/jquery.js"></script>
+		<script type='text/javascript' src="js/jquery.mobile.js"></script>
+		<script type='text/javascript' src="js/app.js"></script>
+	</head>
+	
+	<body>
+		<div data-role="page" class="pagina" ID="inicio">
+			<!--Cabeçalho página inicial -->
+			<div data-role="header">
+				<a href="#dlgSobre" data-role="button" data-rel="dialog" data-transition="flip" data-icon="info" data-iconpos="notext">Sobre</a>
+				<h1>Q'onsciente!</h1>
+			</div>
+
+			<!--Corpo página inicial -->
+			<div role="main" class="ui-content" ID="home">
+				<h2 ID="txHome">Vamos cuidar do <br>Meio Ambiente?</h2>
+				<a href="#perguntas" ID="btComecar" class="ui-btn ui-corner-all">Começar</a>
+			</div>				
+		</div>
+
+		<!--Página perguntas-->
+		<div data-role="page" ID="perguntas" class="pagina">
+			<!--Cabeçalho Página perguntas-->
+			<div data-role="header">
+				<a href="#dlgSobre" data-role="button" data-rel="dialog" data-transition="flip" data-icon="info" data-iconpos="notext">Sobre</a>
+				<h1>Q'onsciente!</h1>
+			</div>
+			<!--Corpo Página perguntas-->			
+			<div role="main">
+				<p ID="brPerguntas" class="ui-bar ui-bar-a"><span ID="redPerguntas"></span></p>
+				<form ID="formulario">
+					<div class="alternativas">
+						<fieldset data-role="controlgroup" ID="rdButtom" data-mini="true">
+							<input type="radio" name="radio-choice-v-2" id="radio-choice-v-2a" value="0" autocomplete="off">
+							<label for="radio-choice-v-2a"><span ID="alternativa-1"</span></label>
+							<input type="radio" name="radio-choice-v-2" id="radio-choice-v-2b" value="1" autocomplete="off">
+							<label for="radio-choice-v-2b"><span ID="alternativa-2"</span></label>
+							<input type="radio" name="radio-choice-v-2" id="radio-choice-v-2c" value="2" autocomplete="off">
+							<label for="radio-choice-v-2c"><span ID="alternativa-3"</span></label>
+						</fieldset>
+					</div>
+				</form>
+				<img ID="imagens"/>
+				<div ID="divProxima">
+					<button class="ui-btn ui-btn-inline ui-corner-all ui-mini" ID="btProxima">Próxima</button>
+				</div>
+			</div>
+			
+			<!-- Popup de resposta necessária-->
+			<div data-role="popup" id="popupSelecione" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;">
+				<div role="main" class="ui-content">
+					<h4 class="ui-title">Selecione uma opção!</h4>
+					<a href="#" class="ui-btn ui-corner-all ui-shadow ui-mini ui-btn-inline ui-btn-b" ID="btOkPopup" data-rel="back">Ok!</a>
+				</div>
+			</div>
+		</div>
+		
+		<!--Página resultado-->
+		<div data-role="page" ID="resultado" class="pagina"> 
+			<!--Cabeçalho Resultado-->
+			<div data-role="header">
+				<a href="#dlgSobre" data-role="button" data-rel="dialog" data-transition="flip" data-icon="info" data-iconpos="notext">Sobre</a>
+				<h1>Q'onsciente!</h1>
+			</div>
+			<!--Corpo Resultado-->			
+			<div role="main">
+				<p ID="brResultado" class="ui-bar ui-bar-a"><span ID="redResultado"></span></p>
+				<div class="alternativas">
+					<div data-role="collapsible">
+						<h4>Gabarito</h4>
+						<ol>
+							<span ID="cpGabarito"></span>
+						</ol>
+					</div>	
+				</div>
+				<div ID="btParaContinua">
+					<div ID="divBtParaContinua">
+						<button class="ui-btn ui-btn-inline ui-corner-all" ID="btParar">Vou parar!</button>
+						<a href="#perguntas" ID="btContinua" class="ui-btn ui-btn-inline ui-corner-all">Vamos +1!</a>
+					</div>
+				</div>
+			</div>					
+		</div>
+		
+		<!--Popup Sobre-->
+		<div id="dlgSobre" data-role="dialog" data-rel="back"> 
+		<!--Cabeçalho Popup Sobre-->
+		<div data-role="header">
+	        <h1>Sobre</h1>
+	    </div>
+		<!--Corpo Popup Sobre-->
+	    <div data-role="content">
+	        <h2>Desenvolvedor</h2>
+	        <div class="descricao">
+				<img src="images/sobre/developer.png"><div>Diego Bonfim</div><br>
+				<img src="images/sobre/email.png"><div><a href="mail-to:diego@diegobonfim.com">diego@diegobonfim.com</div><br>
+				<img src="images/sobre/face.png"><div><a href="https://www.facebook.com/Diego.JBonfim">/Diego.JBonfim</a></div><br>
+				<img src="images/sobre/tw.png"><div><a href="https://twitter.com/Diego_88">@Diego_88</a></div><br>
+				<img src="images/sobre/skype.png"><div>diegojbonfim</div><br>
+			</div>
+	    </div>
+	</div>
+
+	</body>
+</html>

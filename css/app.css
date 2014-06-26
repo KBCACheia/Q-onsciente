@@ -1,0 +1,120 @@
+#btComecar {
+	border-radius: 50px;
+	height:20px;
+	width:100px;
+	top:50%;
+	left:50%;
+	position:absolute;
+	margin-top:-20px;
+	margin-left:-60px;
+	box-shadow: black 0.0em 0.0em 1em;
+
+}
+
+#btProxima{
+	border-radius: 50px;
+	box-shadow: black 0.0em 0.0em 1em;
+	margin:auto;
+	display:block;
+}
+
+#divProxima{
+	background-color:rgba(255, 255, 255, 0.5);
+	border: none;
+	margin-top:7px;
+}
+
+#txHome {
+	text-align:center;
+	margin-top:-0.5%;
+	text-shadow: 0 0 20px #fff, 0 -10px 20px #fff, 
+	0 10px 20px #fff, -20px 0 40px #fff, 
+	20px 0 40px #fff;	
+}
+	
+.ui-bar.ui-bar-a {
+	font-size: 0.9em;
+	text-align:center;
+}
+	
+#imagens {
+	max-width: 800px; 
+    width: 80%; 
+    height: auto;
+	margin:auto;
+	display:block;
+	box-shadow: black 0.0em 0.0em 1em;
+}
+
+#rdButtom{
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+
+.alternativas {
+	margin-top:-5px;
+	background-color:rgba(255, 255, 255, 0.7);
+	border: none;
+	margin-bottom:7px;
+}
+
+.pagina {
+	background-image: url("../images/bg.jpg");
+	background-position: center center;
+	background-size: auto 100%;
+	background-repeat:no-repeat;
+	background-color:rgba(181, 219, 12, 0.39);
+}
+
+.ui-header.ui-bar-inherit {
+	text-align: center;
+	background-color:#abcd14;
+	border: 1px solid #648100;
+}
+
+.ui-link.ui-btn-left.ui-btn.ui-icon-info.ui-btn-icon-notext.ui-shadow.ui-corner-all {
+	background-color:#abcd14;
+	
+}
+
+.ui-bar.ui-bar-a {
+	margin-top: 5px;
+	background-color:rgba(255, 255, 255, 0.7);
+	border: none;
+}
+
+#btOkPopup {
+	margin:auto;
+	display:block;
+	margin-bottom: -10px;
+}
+
+#btParaContinua {
+	background-color:rgba(255, 255, 255, 0.5);
+	border: none;
+}
+
+#divBtParaContinua{
+	border: none;
+	width:250px;
+	margin:auto;
+}
+
+.ui-btn.ui-btn-inline.ui-corner-all{
+	margin:auto;
+	display:inline;
+}
+
+.descricao img{
+	display:active !important;
+	height: 48px;
+	padding-right: 10px;
+	float: left;
+}
+
+.descricao div{
+	padding-top: 14px;
+	font-size: 18px;
+	font-weight: bold;
+

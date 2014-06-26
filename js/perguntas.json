@@ -1,0 +1,22 @@
+[
+	{
+		"pergunta": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non commodo diam, id feugiat leo?",
+		"alternativas": [
+			"1",
+			"2",
+			"3"
+		],
+		"resposta": 0,
+		"imagem": "images/1.jpg"
+	},	
+	{
+		"pergunta": "pergunta 2?",
+		"alternativas": [
+			"a",
+			"b",
+			"c"
+		],
+		"resposta": 0,
+		"imagem": "images/1.jpg"
+	}
+]
