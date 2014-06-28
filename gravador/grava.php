@@ -1,11 +1,11 @@
 <?php  
 //PEGA OS DADOS ENVIADOS PELO FORMULÁIO 
-$pergunta = "{\r\n".'"pergunta": "'.$_POST["pergunta"].'"'; 
+$pergunta = "{\r\n".'"pergunta": "'.$_POST["pergunta"].'?"'; 
 $opcao1 = "\r\n".'"alternativas": ["'.$_POST["opcao1"].'"';
 $opcao2 = "\r\n".'"'.$_POST["opcao2"].'"'; 
 $opcao3 = "\r\n".'"'.$_POST["opcao3"].'"]'; 
 $resposta = "\r\n".'"resposta": '.$_POST["resposta"]; 
-$imagem = "\r\n".'"imagem": "images/'.$_POST["imagem"].'.jpg"'."\r\n}\r\n";
+$imagem = "\r\n".'"imagem": "images/'.$_POST["imagem"].'.jpg"'."\r\n},\r\n";
 
 //PREPARA O CONTEÚDO A SER GRAVADO 
 $conteudo = "$pergunta,$opcao1,$opcao2,$opcao3,$resposta,$imagem"; 

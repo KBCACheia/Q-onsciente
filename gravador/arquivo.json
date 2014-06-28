@@ -1,0 +1,112 @@
+{
+"pergunta": "Por quantos estados brasileiros a Mata Atlântica se espalhava originalmente?",
+"alternativas": ["17 estados",
+"13 estados",
+"10 estados"],
+"resposta": 0,
+"imagem": "images/1.jpg"
+},
+{
+"pergunta": "Aproximadamente quantas especies de mamíferos vivem atualmente na Mata Atlântica?",
+"alternativas": ["300 espécies",
+"250 espécies",
+"150 espécies"],
+"resposta": 1,
+"imagem": "images/2.jpg"
+},
+{
+"pergunta": "Quanto resta de Mata Atlântica hoje?",
+"alternativas": ["7% da área original",
+"15,3% da área original",
+"9%  da área original"],
+"resposta": 0,
+"imagem": "images/3.jpg"
+},
+{
+"pergunta": "Quais desses animais vivem na Mata Atlântica ?",
+"alternativas": ["Tigre e Urso pardo",
+"Jaguatirica e Onça pintada",
+"Urso panda e Capivara"],
+"resposta": 1,
+"imagem": "images/4.jpg"
+},
+{
+"pergunta": "Das 633 espécies ameaçadas no Brasil, quantas a Mata Atlântica abriga?",
+"alternativas": ["300",
+"383",
+"451"],
+"resposta": 1,
+"imagem": "images/5.jpg"
+},
+{
+"pergunta": "Quantas espécies da flora  brasileira estão ameaçadas de extinção?",
+"alternativas": ["366",
+"532",
+"472"],
+"resposta": 2,
+"imagem": "images/6.jpg"
+},
+{
+"pergunta": "A Mata Atlântica foi reconhecida mundialmente como patrimônio por quais instituições?",
+"alternativas": ["ONU,UNESCO e Constituição de 1988",
+"ONU,UNICEF e UNESCO",
+"ONU,IPCC e UNICEF"],
+"resposta": 0,
+"imagem": "images/7.jpg"
+},
+{
+"pergunta": "O processo de transformar materiais usados em novos produtos é?",
+"alternativas": ["Reciclar",
+"Manufaturar ",
+"Desintegrar"],
+"resposta": 0,
+"imagem": "images/8.jpg"
+},
+{
+"pergunta": "Como é chamado o processo de separação e recolhimento de resíduos para a reciclagem ?",
+"alternativas": ["Seleção de lixo",
+"Triagem",
+"Coleta seletiva"],
+"resposta": 2,
+"imagem": "images/9.jpg"
+},
+{
+"pergunta": "Qual alternativa traz apenas materiais que  não podem ser reciclados ?",
+"alternativas": ["Caixas de papelão",
+"Guardanapos e adesivos",
+"Latas de alumínio e aparas de papel"],
+"resposta": 1,
+"imagem": "images/10.jpg"
+},
+{
+"pergunta": "Qual das alternativas abaixo mostra o caminho mais adequado do lixo?",
+"alternativas": ["Descarte,coleta e lixão",
+"Exportação do lixo para um  país distante",
+"Coleta,triagem,reciclagem e consumo"],
+"resposta": 2,
+"imagem": "images/11.jpg"
+},
+{
+"pergunta": "Como descartar o óleo da cozinha?",
+"alternativas": ["Joga-lo no vaso sanitario o",
+"Exportação do lixo para um  país distante",
+"Coleta,triagem,reciclagem e consumo"],
+"resposta": 2,
+"imagem": "images/11.jpg"
+},
+{
+"pergunta": "Como descartar o óleo de cozinha ?",
+"alternativas": ["Levar até o postos de coletas",
+"Descartar no lixo orgânico ",
+"Jogá-lo no ralo da pia"],
+"resposta": 0,
+"imagem": "images/12.jpg"
+},
+{
+"pergunta": "Como posso diminuir a quantidade de lixo que produzo para reciclagem?",
+"alternativas": ["Descartando",
+"Doando ao invés de jogar no lixo",
+"Reduzindo o meu consumo"],
+"resposta": 2,
+"imagem": "images/13.jpg"
+},
