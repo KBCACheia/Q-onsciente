@@ -110,3 +110,220 @@
 "resposta": 2,
 "imagem": "images/13.jpg"
 },
+
+{
+"pergunta": "Eólica,solar e hidrelétrica são exemplos de fonte de energia?",
+"alternativas": ["Renováveis",
+"Não Renováveis ",
+"Recicláveis "],
+"resposta": 0,
+"imagem": "images/14.jpg"
+},
+{
+"pergunta": "Qual ação tem maior peso nas emissões globais de gases de efeito estufa?",
+"alternativas": ["Queima de combustíveis fósseis ",
+"Mudança no solo",
+"Desmatamento"],
+"resposta": 0,
+"imagem": "images/15.jpg"
+},
+{
+"pergunta": "Para se produzir um quilo de papel,quantos litros de água são necessário ?",
+"alternativas": ["120 litros",
+"540 litros",
+"760 litros "],
+"resposta": 1,
+"imagem": "images/16.jpg"
+},
+{
+"pergunta": "O que significa os 3 Rs do consumo consciente ?",
+"alternativas": ["Reutilizar,repensar e regularizar ",
+"Reduzir,reutilizar e reciclar",
+"Reciclar,reagir e restringir"],
+"resposta": 1,
+"imagem": "images/17.jpg"
+},
+{
+"pergunta": "Para poupar muitas árvores e florestas devemos?",
+"alternativas": ["Reciclar, jornais e revistas",
+"Comprar menos jornais",
+"Reciclar latas de metal"],
+"resposta": 0,
+"imagem": "images/18.jpg"
+},
+{
+"pergunta": "O lixo é um problema mundial e muitos materiais levam anos para se decomporem.O vidros?",
+"alternativas": ["Levam 90 anos",
+"Levam 2 mil anos",
+"Levam 4 mil anos"],
+"resposta": 2,
+"imagem": "images/19.jpg"
+},
+{
+"pergunta": "A queima de lixo libera até 27 metais pesados e gases. Isso contribui para a formação:?",
+"alternativas": ["De tempestades",
+"Da chuva ácida",
+"De queimadas"],
+"resposta": 1,
+"imagem": "images/20.jpg"
+},
+{
+"pergunta": "O vento produz energia?",
+"alternativas": ["Ventosa",
+"Solar",
+"Eólica"],
+"resposta": 2,
+"imagem": "images/21.jpg"
+},
+{
+"pergunta": "A água produz energia?",
+"alternativas": [" Líquida",
+"Hídrica",
+" Molhada"],
+"resposta": 1,
+"imagem": "images/22.jpg"
+},
+{
+"pergunta": "A energia geotérmica provém do?",
+"alternativas": ["Calor do interior da Terra",
+"Calor do exterior da Terra",
+"Frio do interior da Terra"],
+"resposta": 0,
+"imagem": "images/23.jpg"
+},
+{
+"pergunta": "Antes da colonização do Brasil pelos portugueses,a Mata Atlântica poderia ser encontrada em quais regiões brasileiras?",
+"alternativas": ["Sul e Sudeste",
+"Sul, Sudeste e Nordeste",
+"Sul,Sudeste,Nordeste e Centro-Oeste"],
+"resposta": 2,
+"imagem": "images/24.jpg"
+},
+{
+"pergunta": "Qual a cor da lixeira específica para o metal?",
+"alternativas": ["Laranja",
+"Azul",
+"Amarela"],
+"resposta": 2,
+"imagem": "images/25.jpg"
+},
+{
+"pergunta": "O Brasil é exemplo em reciclagem de?",
+"alternativas": [" Lata de alumínio",
+"Garrafas plásticas (PET)",
+" Papel para uso escolar"],
+"resposta": 0,
+"imagem": "images/26.jpg"
+},
+{
+"pergunta": " Qual destes é um método de preservação ambiental??",
+"alternativas": ["Reflorestamento",
+"Desmatamento",
+" Destilação"],
+"resposta": 0,
+"imagem": "images/27.jpg"
+},
+{
+"pergunta": "Indique uma vantagem da energia sola?",
+"alternativas": [" É eficaz em qualquer clima",
+" Não polui",
+"É disponível a todo momento"],
+"resposta": 1,
+"imagem": "images/28.jpg"
+},
+{
+"pergunta": "Qual é a porcentagem do lixo que é reciclado no Brasil?",
+"alternativas": ["4%",
+"3%",
+"22%"],
+"resposta": 1,
+"imagem": "images/29.jpg"
+},
+{
+"pergunta": "Quais dos materiais abaixo podem gerar algum tipo de combustível?",
+"alternativas": [" Apenas papel",
+" Óleo e metal",
+" Plástico e óleo de cozinha"],
+"resposta": 2,
+"imagem": "images/30.jpg"
+},
+{
+"pergunta": "A energia solar é mais utilizada em?",
+"alternativas": ["Residências",
+"Veículos",
+"Indústrias"],
+"resposta": 0,
+"imagem": "images/31.jpg"
+},
+{
+"pergunta": "Quais são nos dias de hoje os principais gases colaboradores para a intensificação do efeito estufa?",
+"alternativas": ["O3 e N2",
+"H2 e O2",
+"CO2 e CH4"],
+"resposta": 2,
+"imagem": "images/32.jpg"
+},
+{
+"pergunta": "Na matriz energética brasileira quais são os três tipos de fonte de energia mais utilizados?",
+"alternativas": ["Petróleo,Biomassa e Hidroelétrica",
+"Hidroelétrica, Gás Natural e Solar",
+"Hidrelétrica,Petróleo e Eólica"],
+"resposta": 0,
+"imagem": "images/33.jpg"
+},
+{
+"pergunta": "Os produtos verdes?",
+"alternativas": ["Agridem muito o meio ambiente",
+"Agridem menos o meio ambiente",
+"Poluem o meio ambiente"],
+"resposta": 1,
+"imagem": "images/34.jpg"
+},
+{
+"pergunta": "Em que ano a reciclagem começou a ser levada a sério?",
+"alternativas": ["2000",
+"1990",
+"1970"],
+"resposta": 2,
+"imagem": "images/35.jpg"
+},
+{
+"pergunta": "Há muito tempo atrás o que influenciou a reciclagem?",
+"alternativas": ["Primeira crise do petróleo",
+"Primeira Guerra Mundial",
+"Segunda Guerra Mundial"],
+"resposta": 0,
+"imagem": "images/36.jpg"
+},
+{
+"pergunta": "Qual desses animais não estão em extinção?",
+"alternativas": ["Arara-vermelha",
+"Onça pintada",
+"Mico leão dourado"],
+"resposta": 0,
+"imagem": "images/37.jpg"
+},
+{
+"pergunta": "Qual o maior rio em território brasileiro?",
+"alternativas": ["Rio Paraguai",
+"Rio Amazonas",
+"Rio São Francisco"],
+"resposta": 2,
+"imagem": "images/38.jpg"
+},
+{
+"pergunta": "O Brasil tem quantas especies ameaçadas ?",
+"alternativas": ["233",
+"627",
+"998"],
+"resposta": 1,
+"imagem": "images/39.jpg"
+},
+{
+"pergunta": "Qual País mais investe em energias renováveis ?",
+"alternativas": ["Estados Unidos",
+"Alemanha",
+"China"],
+"resposta": 0,
+"imagem": "images/40.jpg"
+},

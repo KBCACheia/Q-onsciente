@@ -7,7 +7,7 @@ $(function(){
 	var respostasPerguntas = [];
 	var countPerg = 0;
 	var perguntasSorteadas = [];
-	var numeroPerguntas = 2;
+	var numeroPerguntas = 10;
 	
 	/* colocando json em variavel*/
 	$.getJSON("js/perguntas.json", function(json){
