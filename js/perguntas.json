@@ -62,9 +62,9 @@
     {
         "pergunta": "A Mata Atlântica foi reconhecida mundialmente como patrimônio por quais instituições?",
         "alternativas": [
-            "ONU,UNESCO e Constituição de 1988",
-            "ONU,UNICEF e UNESCO",
-            "ONU,IPCC e UNICEF"
+            "ONU, UNESCO e Constituição de 1988",
+            "ONU, UNICEF e UNESCO",
+            "ONU, IPCC e UNICEF"
         ],
         "resposta": 0,
         "imagem": "images/7.jpg"
@@ -102,19 +102,19 @@
     {
         "pergunta": "Qual das alternativas abaixo mostra o caminho mais adequado do lixo?",
         "alternativas": [
-            "Descarte,coleta e lixão",
+            "Descarte, coleta e lixão",
             "Exportação do lixo para um  país distante",
-            "Coleta,triagem,reciclagem e consumo"
+            "Coleta, triagem, reciclagem e consumo"
         ],
         "resposta": 2,
         "imagem": "images/11.jpg"
     },
     {
-        "pergunta": "Como descartar o óleo da cozinha?",
+        "pergunta": "Que nome se dá ao líquido viscoso escuro e altamente contaminante resultado da decomposição da matéria orgânica presente no lixo?",
         "alternativas": [
-            "Joga-lo no vaso sanitario o",
-            "Exportação do lixo para um  país distante",
-            "Coleta,triagem,reciclagem e consumo"
+            "Dejeto",
+            "Caldo Sujo",
+            "Chorume"
         ],
         "resposta": 2,
         "imagem": "images/11.jpg"
@@ -140,7 +140,7 @@
         "imagem": "images/13.jpg"
     },
     {
-        "pergunta": "Eólica,solar e hidrelétrica são exemplos de fonte de energia?",
+        "pergunta": "Eólica, solar e hidrelétrica são exemplos de fonte de energia?",
         "alternativas": [
             "Renováveis",
             "Não Renováveis ",
@@ -160,7 +160,7 @@
         "imagem": "images/15.jpg"
     },
     {
-        "pergunta": "Para se produzir um quilo de papel,quantos litros de água são necessário ?",
+        "pergunta": "Para se produzir um quilo de papel, quantos litros de água são necessário?",
         "alternativas": [
             "120 litros",
             "540 litros",
@@ -170,11 +170,11 @@
         "imagem": "images/16.jpg"
     },
     {
-        "pergunta": "O que significa os 3 Rs do consumo consciente ?",
+        "pergunta": "O que significa os 3 R's do consumo consciente ?",
         "alternativas": [
-            "Reutilizar,repensar e regularizar ",
-            "Reduzir,reutilizar e reciclar",
-            "Reciclar,reagir e restringir"
+            "Reutilizar, repensar e regularizar ",
+            "Reduzir, reutilizar e reciclar",
+            "Reciclar, reagir e restringir"
         ],
         "resposta": 1,
         "imagem": "images/17.jpg"
@@ -190,21 +190,21 @@
         "imagem": "images/18.jpg"
     },
     {
-        "pergunta": "O lixo é um problema mundial e muitos materiais levam anos para se decomporem.O vidros?",
+        "pergunta": "O lixo é um problema mundial e muitos materiais levam anos para se decomporem. O vidro por exemplo...",
         "alternativas": [
-            "Levam 90 anos",
-            "Levam 2 mil anos",
-            "Levam 4 mil anos"
+            "leva 90 anos",
+            "leva 2 mil anos",
+            "leva 4 mil anos"
         ],
         "resposta": 2,
         "imagem": "images/19.jpg"
     },
     {
-        "pergunta": "A queima de lixo libera até 27 metais pesados e gases. Isso contribui para a formação:?",
+        "pergunta": "A queima de lixo libera até 27 metais pesados e gases. Isso contribui para a formação...",
         "alternativas": [
-            "De tempestades",
-            "Da chuva ácida",
-            "De queimadas"
+            "de tempestades",
+            "da chuva ácida",
+            "de queimadas"
         ],
         "resposta": 1,
         "imagem": "images/20.jpg"
@@ -332,9 +332,9 @@
     {
         "pergunta": "Na matriz energética brasileira quais são os três tipos de fonte de energia mais utilizados?",
         "alternativas": [
-            "Petróleo,Biomassa e Hidroelétrica",
+            "Petróleo, Biomassa e Hidroelétrica",
             "Hidroelétrica, Gás Natural e Solar",
-            "Hidrelétrica,Petróleo e Eólica"
+            "Hidrelétrica, Petróleo e Eólica"
         ],
         "resposta": 0,
         "imagem": "images/33.jpg"
@@ -390,7 +390,7 @@
         "imagem": "images/38.jpg"
     },
     {
-        "pergunta": "O Brasil tem quantas especies ameaçadas ?",
+        "pergunta": "O Brasil tem quantas espécies ameaçadas?",
         "alternativas": [
             "233",
             "627",
