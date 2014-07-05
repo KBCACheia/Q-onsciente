@@ -95,6 +95,10 @@ $(function(){
 		respostasPerguntas = [];
 		perguntasSorteadas = [];		
 		carregarPergunta();
+		$("#btProxima").html('Próxima');
+		$('#formulario').each (function(){ /*apaga a marcação do radio buttom*/
+			this.reset();
+		});
 	});	
 	
 	
