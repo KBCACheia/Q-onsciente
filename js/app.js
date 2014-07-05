@@ -18,7 +18,7 @@ $(function(){
 
 	function carregarPergunta() {/*carregar as perguntas*/	
 		
-		var index = randomInt(0, dbPerguntas.length - 1);
+		var index = randomInt(0, 40);
 		perguntasSorteadas.push(index);
 		$('#redPerguntas').html(dbPerguntas[index].pergunta);
 		$('#alternativa-1').html("a) "+dbPerguntas[index].alternativas[0]);
@@ -32,14 +32,14 @@ $(function(){
 	function randomInt(min, max){ /*gera o index randomico e confere se já foi usado*/
 			var index = -1;
 			do {
-				index = Math.floor(Math.random()*(max-min+1)+min);
+				index = Math.floor(Math.random()*(max-min+1))+min;
 				console.log(index);
 				for(i = 0; i < perguntasRepetidas.length; i++){
 					if(perguntasRepetidas[i] == index){
 						index = -1;
 					}
 					else {
-						perguntasRepetidas[i] = index;
+						perguntasRepetidas.push(index);
 						break;
 					}
 				}
